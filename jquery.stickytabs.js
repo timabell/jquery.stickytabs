@@ -1,5 +1,13 @@
 /**
  * jQuery Plugin: Sticky Tabs
+ * https://raw.githubusercontent.com/aidanlister/code/master/jquery.stickytabs.js
+ * "The code resides entirely in the public domain." - from the repo README file.
+ *
+ * Usage:
+ *   $('.nav-tabs').stickyTabs();
+ *
+ * http://aidanlister.com/2014/03/persisting-the-tab-state-in-bootstrap/
+ * https://stackoverflow.com/questions/12131273/twitter-bootstrap-tabs-url-doesnt-change/22160443#22160443
  *
  * @author Aidan Lister <aidan@php.net>
  * @version 1.0.1
