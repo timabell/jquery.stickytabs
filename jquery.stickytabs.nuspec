@@ -2,16 +2,17 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
     <metadata>
         <id>jquery.stickytabs</id>
-        <version>1.1.0</version>
+        <version>1.1.1</version>
         <title>jquery.stickytabs for bootstrap</title>
         <authors>Tim Abell</authors>
         <projectUrl>https://github.com/timabell/jquery.stickytabs/</projectUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>Usage: run `$('.nav-tabs').stickyTabs();` to initialize.</description>
         <summary>Intended to extend bootstrap-tabs default behaviour to remember the selected tab across page reloads by using the location.hash. This also allows linking to a specific tab.</summary>
+        <releaseNotes>Fix script location</releaseNotes>
         <copyright>Public Domain</copyright>
     </metadata>
     <files>
-        <file src="jquery.stickytabs.js" target="Scripts\jquery.stickytabs.js" />
+        <file src="jquery.stickytabs.js" target="Content\Scripts\jquery.stickytabs.js" />
     </files>
 </package>
