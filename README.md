@@ -30,6 +30,14 @@ Run this in document ready or some equivalent initializer on your page:
 
 Class `nav-tabs` is the default class for the bootstrap tabs feature.
 
+Nuget
+=====
+
+If your a visual studio / .net user you can install this with the nuget package through your nuget
+package manager.
+
+https://www.nuget.org/packages/jquery.stickytabs/
+
 Contributing
 ============
 
