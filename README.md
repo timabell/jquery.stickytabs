@@ -51,6 +51,7 @@ Upstream
 * Original license: "The code resides entirely in the public domain." - from the repo README file.
 * Blog post by author: http://aidanlister.com/2014/03/persisting-the-tab-state-in-bootstrap/
 * Stackoverflow post by author: https://stackoverflow.com/questions/12131273/twitter-bootstrap-tabs-url-doesnt-change/22160443#22160443
+* New repository from original author https://github.com/aidanlister/jquery-stickytabs (created after this one)
 
 Further reading
 ===============
