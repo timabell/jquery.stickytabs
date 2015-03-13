@@ -1,3 +1,7 @@
+**nuget maintainer repo**
+
+This repo tracks the upstream repo and adds nuget package info for https://www.nuget.org/packages/jquery.stickytabs/
+
 jquery-stickytabs
 =================
 
