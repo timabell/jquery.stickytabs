@@ -2,6 +2,10 @@
 
 This repo tracks the upstream repo and adds nuget package info for https://www.nuget.org/packages/jquery.stickytabs/
 
+Please only report packaging bugs and requests for new releases to this repo's issue tracker, for all functionality requests please use the upstream issue tracker instead.
+
+Please don't report nuget package issues to upstream as they aren't planning on maintaining the nuget package (ref https://github.com/aidanlister/jquery-stickytabs/issues/2 )
+
 jquery-stickytabs
 =================
 
